@@ -3,3 +3,5 @@ rewards for validators for confirmation of transaction blocks, data
 authentication and recording new transaction blocks on the 
 blockchain. Crypto minting follows the Proof of Stake consensus 
 algorithm and has a significant relationship with staking.
+
+contract address : 0x5FbDB2315678afecb367f032d93F642f64180aa3
