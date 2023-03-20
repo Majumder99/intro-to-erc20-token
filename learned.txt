@@ -1,0 +1,5 @@
+Minting refers to the creation of new crypto coins in the form of 
+rewards for validators for confirmation of transaction blocks, data 
+authentication and recording new transaction blocks on the 
+blockchain. Crypto minting follows the Proof of Stake consensus 
+algorithm and has a significant relationship with staking.
